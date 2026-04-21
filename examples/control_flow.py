@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+x = 0
+while x < 3:
+    print(x)
+    x = x + 1
+if x == 3:
+    print('ተጠናቀቀ')
+else:
+    print('አልተጠናቀቀም')
